@@ -18,23 +18,6 @@ To run this project, install the following libraries:
 **NumPy:** For numerical computations and array manipulations.
 **Matplotlib:** For visualizations (optional).
 
-# **How to Run**:
-**Step 1:** Install Dependencies
-!pip install nltk tensorflow flask numpy matplotlib
-**Step 2:** Run the Chatbot Locally
-
-**Clone the repository:**
-git clone https://github.com/raHHlu/chatbot_project.git
-cd chatbot_project
-
-**Run the Python script:**
-python app.py
-
-**If using Flask for web deployment, access the chatbot via:**
-http://127.0.0.1:5000/
-**Step 3:** Interact with the Chatbot
-Open the command-line interface or the web interface and type your queries.
-Type 'quit' to exit the chatbot.
 
 # **Project Structure**:
 chatbot_project/
