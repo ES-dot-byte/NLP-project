@@ -5,6 +5,7 @@ import numpy as np
 
 nltk.download('punkt')
 nltk.download('wordnet')
+nltk.download('punkt_tab')  
 
 lemmatizer = WordNetLemmatizer()
 
