@@ -52,5 +52,3 @@ Flask Web Interface: Deploy the chatbot as a web app for easier interaction.
 Machine Learning Models: Integrate advanced ML models for dynamic intent classification.
 Voice Integration: Add voice-based input/output using speech-to-text and text-to-speech APIs.
 Expand Intents: Add more intents and patterns for richer user interactions.
-# **License**
-This project is licensed under the MIT License - see the LICENSE file for details.
